@@ -1,1 +1,4 @@
 # movil8
+## Team
+***
+> Andrés Felipe García Patiño: tengo 28 años, vivo en envigado, antioquia. Soy ingeniero Electrónico y Electricista especialista en gerencia de proyectos, trabaje por 3 años en HMV Ingenieros automatizando subestaciones eléctricas. Renuncie hace 3 meses para cambiar de sector, desde hace 1 año y medio estoy estudiando en platzi desarrollo web, especificamente carrera JS y Frontend developer. Tengo conocimiento en varios lenguajes de programación como c++, html, css, JS más los que hemos aprendido en Misión Tic 2022. También tengo conocimientos en React, mi intención es seguir aprendiendo para empezar a buscar trabajo nuevamente.
